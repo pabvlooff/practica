@@ -8,6 +8,7 @@
 #include <QProcess>
 #include <QLabel>
 #include <QMessageBox>
+//hhahhahaha
 
 class PingWidget : public QWidget
 {
