@@ -49,7 +49,7 @@ public:
 
         // Настройка окна
         setWindowTitle("Пинг");
-        resize(600, 400);
+        resize(601, 400);
     }
 
 public slots:
